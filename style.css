@@ -165,3 +165,7 @@ p {
 #contacts button:hover {
   background-color: #555;
 }
+
+footer {
+  color: white;
+}
